@@ -1,0 +1,26 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #7c99da;
+}
+
+#projects {
+  background-color: #7c99da;
+  
+}
+
+#projects 
+
+section {
+  padding-top: 5rem;
+}
+
+.card-body  {
+  padding-bottom: 3rem;
+}
+
+
+.card-body button a {
+  text-decoration: none;
+  color: white;
+  
+}

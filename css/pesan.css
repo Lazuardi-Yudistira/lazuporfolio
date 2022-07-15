@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(111, 157, 228);
+    color: white;
+}
+
+.pesan {
+    height: 500px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.back {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.back a {
+    text-decoration: none;
+    color: rgb(235, 235, 235);
+    font-size: 35px;
+}
+
+.back a:hover {
+    color: white;
+}
